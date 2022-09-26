@@ -15,4 +15,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    /* Aquí creamos otro layout, poniendo un mensaje de texto distinto al anterior layout*/
 </android.support.constraint.ConstraintLayout>
